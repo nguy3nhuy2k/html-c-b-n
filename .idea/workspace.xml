@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66eb3917-b624-4b36-9720-65457962f53b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/biểu mẫu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bảng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/form cơ bản.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/simpleform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/survey.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web html.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bài 1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/danh sách.html" beforeDir="false" afterPath="$PROJECT_DIR$/danh sách.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/survey.html" beforeDir="false" afterPath="$PROJECT_DIR$/survey.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web html.html" beforeDir="false" afterPath="$PROJECT_DIR$/web html.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +62,8 @@
       <workItem from="1614838786849" duration="12247000" />
       <workItem from="1614865749724" duration="2026000" />
       <workItem from="1614905700329" duration="13061000" />
+      <workItem from="1614929838787" duration="909000" />
+      <workItem from="1614960672565" duration="747000" />
     </task>
     <servers />
   </component>
