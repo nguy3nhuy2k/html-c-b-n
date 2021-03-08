@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chuyển Đổi Tiền</title>
+</head>
+<body>
+<h3 align="center">Chuyển đổi tiền </h3><br>
+<table align="center">
+    <tr>
+        <th>Nhập số tiền</th>
+        <th>Đổi từ</th>
+        <th>Sang</th>
+    </tr>
+    <tr>
+        <td><input type="number" id="money"/></td>
+        <td>
+            <select id="input1">
+                <option value="23000">Vnd</option>
+                <option value="1">Usd</option>
+            </select>
+        </td>
+        <td>
+            <select id="input2">
+                <option value="1">Usd</option>
+                <option value="23000">Vnd</option>
+            </select>
+        </td>
+    </tr>
+</select>
+    <tr>
+        <td align="center">
+        <button onclick="convert()">Chuyển đổi</button>
+        </td>
+    </tr>
+</table>
+</body>
+</html>
+<script>
+    function convert(){
+        let money = document.getElementById('money').value;
+        let input1 = document.getElementById('input1').value;
+        let input2 = document.getElementById('input2').value;
+        alert('kết quả : ' + ((money*input2)/input1));
+
+    }
+
+</script>
