@@ -1,10 +1,57 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Title</title>
 </head>
 <body>
-$END$
+</h1>
+<button id='0' onclick="click1('0')">0</button>
+<button id='1' onclick="click1('1')">1</button>
+<button id='2' onclick="click1('2')">2</button>
+<button id='3' onclick="click1('3')">3</button>
+<button id='4' onclick="click1('4')">4</button>
+<button id='5' onclick="click1('5')">5</button>
+<button id='6' onclick="click1('6')">6</button>
+<button id='7' onclick="click1('7')">7</button>
+<button id='8' onclick="click1('8')">8</button>
+<button id='9' onclick="click1('9')">9</button>
+<button id='Cong' onclick="click1('Cong')">+</button>
+<button id='Tru' onclick="click1('Tru')">-</button>
+<button id='Nhan' onclick="click1('Nhan')">*</button>
+<button id='Chia' onclick="click1('Chia')">/</button>
+
+
+<button onclick="result()">kết quả</button>
+
+<button onclick="reset()">Reset</button>
+
+
+ <h5 id="phepTinh"/>
+
+</h5>
+<h1 id="kết quả"/>
+
+</h1>
+
 </body>
 </html>
+<script>
+    let a = ''
+
+    function click1(id){
+        a += document.getElementById(id).innerHTML
+        document.getElementById('phepTinh').innerHTML = a
+    }
+
+    function result(){
+        document.getElementById('kết quả').innerHTML = eval(a)
+        a = ''
+    }
+
+    function reset(){
+        document.getElementById('phepTinh').innerHTML = ''
+        document.getElementById('kết quả').innerHTML = ''
+        a = ''
+    }
+</script>
