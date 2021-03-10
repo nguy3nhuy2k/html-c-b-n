@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="81f49401-dc60-4b7c-8155-2b2ac2ae806e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/switchcase1.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/switchcase1.2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/switchcase2.1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/switchcase2.2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nobita.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tinhsongay.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kiểm tra năm nhuận.html" beforeDir="false" afterPath="$PROJECT_DIR$/kiểm tra năm nhuận.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maytinh.html" beforeDir="false" afterPath="$PROJECT_DIR$/maytinh.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maytinh2.html" beforeDir="false" afterPath="$PROJECT_DIR$/maytinh2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,11 +64,23 @@
       <workItem from="1615259003184" duration="7839000" />
       <workItem from="1615295529241" duration="6107000" />
       <workItem from="1615305183907" duration="12000" />
-      <workItem from="1615338381138" duration="665000" />
+      <workItem from="1615338381138" duration="10895000" />
+      <workItem from="1615365912241" duration="2495000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Nobita.html</url>
+          <line>14</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
